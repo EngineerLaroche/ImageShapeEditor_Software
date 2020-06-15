@@ -13,33 +13,21 @@ Sinon, dans votre IDE (Java), le démarrage se fait à partir de la classe 'Appl
 
 ## Fill
 
-![alt text](https://github.com/k1n6ar3a/ImageShapeEditor_Software/blob/master/ReadmeIMG/FillExample.jpg)
+![alt text](https://github.com/k1n6ar3a/ImageShapeEditor_Software/blob/master/ReadmeIMG/FillExample.png)
 
 ## Filter
 
-![alt text](https://github.com/k1n6ar3a/ImageShapeEditor_Software/blob/master/ReadmeIMG/FilterLaplacian.jpg)
+![alt text](https://github.com/k1n6ar3a/ImageShapeEditor_Software/blob/master/ReadmeIMG/FilterLaplacian.png)
 
-![alt text](https://github.com/k1n6ar3a/ImageShapeEditor_Software/blob/master/ReadmeIMG/FilterGaussian.jpg)
+![alt text](https://github.com/k1n6ar3a/ImageShapeEditor_Software/blob/master/ReadmeIMG/FilterGaussian.png)
 
 ## Curves
 
-![alt text](https://github.com/k1n6ar3a/ImageShapeEditor_Software/blob/master/ReadmeIMG/CurvesExample.jpg)
+![alt text](https://github.com/k1n6ar3a/ImageShapeEditor_Software/blob/master/ReadmeIMG/CurvesExample.png)
 
-## Translate
+## Rotate, Translate, Scale, Shear
 
-![alt text](https://github.com/k1n6ar3a/ImageShapeEditor_Software/blob/master/ReadmeIMG/TranslateExample.jpg)
-
-## Scale
-
-![alt text](https://github.com/k1n6ar3a/ImageShapeEditor_Software/blob/master/ReadmeIMG/ScaleExample.jpg)
-
-## Shear
-
-![alt text](https://github.com/k1n6ar3a/ImageShapeEditor_Software/blob/master/ReadmeIMG/ShearExample.jpg)
-
-## Rotate
-
-![alt text](https://github.com/k1n6ar3a/ImageShapeEditor_Software/blob/master/ReadmeIMG/RotateExample.jpg)
+![alt text](https://github.com/k1n6ar3a/ImageShapeEditor_Software/blob/master/ReadmeIMG/RotateExample.png)
 
 ## Auteur
 
